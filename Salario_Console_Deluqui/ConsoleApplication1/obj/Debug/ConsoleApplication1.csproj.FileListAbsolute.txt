@@ -1,0 +1,12 @@
+c:\users\professor\documents\visual studio 2012\Projects\Salario_Console_Deluqui\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+C:\Users\professor\Documents\Visual Studio 2012\Projects\Salario_Console_Deluqui\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\professor\Documents\Visual Studio 2012\Projects\Salario_Console_Deluqui\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\professor\Documents\Visual Studio 2012\Projects\Salario_Console_Deluqui\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\professor\Documents\Visual Studio 2012\Projects\Salario_Console_Deluqui\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+C:\Users\professor\Documents\Visual Studio 2012\Projects\Salario_Console_Deluqui\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\FATEC_Unip\2018_1S\CidadeUniversitaria\Projetos_CSharp\Salario_Console_Deluqui\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\FATEC_Unip\2018_1S\CidadeUniversitaria\Projetos_CSharp\Salario_Console_Deluqui\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\FATEC_Unip\2018_1S\CidadeUniversitaria\Projetos_CSharp\Salario_Console_Deluqui\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\FATEC_Unip\2018_1S\CidadeUniversitaria\Projetos_CSharp\Salario_Console_Deluqui\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\FATEC_Unip\2018_1S\CidadeUniversitaria\Projetos_CSharp\Salario_Console_Deluqui\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\FATEC_Unip\2018_1S\CidadeUniversitaria\Projetos_CSharp\Salario_Console_Deluqui\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
